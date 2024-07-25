@@ -28,7 +28,7 @@ That's it, the package is installed. Move to the next section to learn how to us
 ### Fetching the Data
 To fetch the data you will need to have the project installed. Then simply run:
 ```shell
-run_floorplan_conversion download-data --api-key <Your Roboflow API KEY>
+floorplan_conversion download-data --api-key <Your Roboflow API KEY>
 ```
 
 ## Building the documentation
