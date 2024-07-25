@@ -15,6 +15,7 @@ repository = "https://github.com/sachahu1/floorplan-conversion"
 python = ">=3.9,<3.12"
 roboflow = "^1.1.36"
 click = "^8.1.7"
+ultralytics = "^8.2.65"
 
 [tool.poetry.group.dev]
 optional = true
