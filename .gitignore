@@ -150,3 +150,6 @@ auth.toml
 # Exclude all RST files appart from index.rst
 *.rst
 !index.rst
+
+# Exclude dataset
+door-windows-1
