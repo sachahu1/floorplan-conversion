@@ -153,3 +153,7 @@ auth.toml
 
 # Exclude dataset
 door-windows-1
+
+floorplan_conversion/runs/
+
+*.pt
