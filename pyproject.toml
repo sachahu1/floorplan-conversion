@@ -55,7 +55,7 @@ testpaths = ["tests"]
 source = ["floorplan_conversion"]
 
 [tool.poetry.scripts]
-run_floorplan_conversion = "floorplan_conversion.cli:run"
+floorplan_conversion = "floorplan_conversion.cli:run"
 
 [tool.ruff]
 line-length = 79
